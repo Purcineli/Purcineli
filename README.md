@@ -24,6 +24,6 @@ Welcome to my GitHub! I'm a Python developer from Ribeirão Preto, Brazil 🇧�
 I believe the best code is the kind that quietly works in the background while you sip your coffee ☕.
 
 ## 📫 Reach Out
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/alessandro-purcineli/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-purcineli/)
 - 📬 Email: alepurbttf@gmail.com
 
