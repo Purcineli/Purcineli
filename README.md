@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Alessandro (aka Purcineli)
+# 👋 Hey, I'm Alessandro
 
 Welcome to my GitHub! I'm a Python developer from Ribeirão Preto, Brazil 🇧🇷, passionate about building practical tools that make life easier. I focus on automation and data-driven web apps—especially when it comes to personal finance.
 
