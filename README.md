@@ -119,16 +119,6 @@ class AlessandroDev:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Purcineli&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 💬 Philosophy
 
 > *"AI doesn't replace developers — it amplifies what we can build. The best solutions come from humans asking the right questions and AI helping execute the vision."*
