@@ -123,7 +123,7 @@ class AlessandroDev:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Purcineli&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Purcineli&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
 
