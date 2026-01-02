@@ -123,9 +123,7 @@ class AlessandroDev:
 
 <div align="center">
 
-![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purcineli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purcineli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Purcineli&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
